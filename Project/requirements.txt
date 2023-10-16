@@ -1,5 +1,4 @@
-cv2
-cv2.aruco
+opencv-python
 numpy
 os
 streamlit
