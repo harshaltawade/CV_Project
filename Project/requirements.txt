@@ -1,7 +1,4 @@
 opencv-python
 numpy
 streamlit
-io
-base64
-imghdr
-tempfile
+
