@@ -1,6 +1,5 @@
 opencv-python
 numpy
-os
 streamlit
 io
 base64
